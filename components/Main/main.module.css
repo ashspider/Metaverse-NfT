@@ -1,0 +1,53 @@
+.hero_text {
+    font-size: 50px !important;
+}
+.nfts{
+    margin-top: 40px; 
+}
+.nft_card{
+    color: #c2d4f8;
+    font-size: 50px !important;
+    font-weight: 700 !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nft_background{
+    background-color: #0c153b;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.left_details{
+    color: #8480ae;
+    font-size: 18px;
+    /* line-height: 34px; */
+}
+.right_details{
+    color: #c2d4f8;
+    font-weight: bold;
+    font-size: 18px;
+    /* line-height: 30px; */
+}
+.buy_btn {
+    padding: 5px 40px;;
+}
+
+
+.borderStyle {
+    border-bottom-width: 0.1px !important;
+    border-color: #c2d4f831 !important;
+}
+
+.navItem:hover {
+    color: #ffd607 !important;
+    transition: all 0.7s ease-in-out; 
+}
+
+.nftBtn{
+    display: center;
+    justify-content: space-between;
+}
+.buyNft{
+   background-color: #ffc107;
+   border-radius: 10px;
+    padding: 5px 20px;
+}

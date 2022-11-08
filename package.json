@@ -1,0 +1,50 @@
+{
+  "name": "nftfrontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "node index.js",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.9.7",
+    "@metamask/detect-provider": "^2.0.0",
+    "@metamask/onboarding": "^1.0.1",
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.7.3",
+    "axios": "^0.27.2",
+    "big-number": "^2.0.0",
+    "bootstrap": "^5.2.0",
+    "chai": "^4.3.6",
+    "cors": "^2.8.5",
+    "ethereum-unit-converter": "^0.0.17",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.0",
+    "express": "^4.18.2",
+    "hardhat": "^2.10.2",
+    "ipfs-http-client": "^57.0.3",
+    "jsonwebtoken": "^8.5.1",
+    "next": "12.2.4",
+    "paytmchecksum": "^1.5.0",
+    "razorpay": "^2.8.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.34.2",
+    "react-icons": "^4.4.0",
+    "react-router-config": "^5.1.1",
+    "react-router-dom": "^6.4.2",
+    "reactjs-popup": "^2.0.5",
+    "shortid": "^2.2.16",
+    "sweetalert2": "^11.4.29",
+    "web3-eth": "^1.8.0",
+    "web3modal": "^1.9.8",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "eslint": "8.21.0",
+    "eslint-config-next": "12.2.4"
+  }
+}
